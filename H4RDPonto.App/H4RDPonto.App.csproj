@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Simple.Sqlite" Version="0.8.5.1" />
+  </ItemGroup>
+
 </Project>
